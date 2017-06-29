@@ -1,11 +1,14 @@
 Título (30)
 ===========
+Guía Vegas del Genil
 
 Descripción breve (80)
 ======================
+Se proporciona la ubicación espacial de los principales elementos de interés
 
 Descripción completa (4000)
 ===========================
+Aplicación creada para el uso cotidiano de todos los que deseen saber donde se encuentran comercios (Bares, restaurantes, tiendas de ropa, ferreterías,...), localización de calles, localización de los Edificios Municipales (Biblioteca, Ayuntamiento, Servicios Sociales,...) y Mucho más.
 
 Etiquetas	
 ===========
@@ -21,4 +24,4 @@ Sitio web
 
 Correo electrónico
 ==================
-
+sepim.ieca@juntadeandalucia.es
